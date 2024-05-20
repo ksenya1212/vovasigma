@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.block1{
+    background-image: url(one.jpg);
+    height: 100rem;
+    width: 150rem; 
+    background-size: cover;
+    
+   
+}
+.text1{
+    color:white;
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 50pt;
+    margin-left: 130px;
+    text-align: center;
+}
+.text{
+    color:white;
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70pt;
+    margin-left: 130px;
+    text-align: center;
+
+}
+.block2{
+    background-color: #E3D9FF;
+    height: 1000px;
+    width: 150rem;
+    padding-top: 150px;
+}
+.list{
+    background-color: #F2EEFF;
+    margin-left: 600px;
+    padding: 100px;
+    width: 80rem;
+    
+}
+.zagolovok{
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60pt;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-right: 20px;
+}
+.text2{
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35pt;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.img1{
+    margin-left: 700px;
+    height: 600px;
+    width: 71rem;
+    margin-top: 100px;
+}
+
+.img2{
+    
+    height: 295px;
+    width: 33rem;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.img3{
+    
+    height: 317px;
+    width: 35rem;
+    margin-left: 1350px;
+    margin-top: -40%;
+}
+
+.img23{
+    float: left;
+}
+.image{
+    background-color: #E3D9FF;
+    height: 1300px;
+    width: 150rem;
+    margin-bottom: 1000;
+}
+.ic1{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.ic2{
+    height: 110px;
+    width: 100px;
+    margin-left: 30px;
+}
+.ic3{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.ic4{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.nomer{
+    font-size: 40pt;
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 35px;   
+}
+.icon{
+    
+    height: 250px;
+    background-color: #F2EEFF;
+    width: 150rem;
+}
+

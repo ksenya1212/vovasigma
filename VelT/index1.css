@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.block1{
+    background-color: #E3D9FF;
+    height: 90rem;
+    width: 150rem; 
+    background-size: cover;
+    
+   
+}
+.text1{
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 50pt;
+    margin-left: 130px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+
+}
+.text{
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70pt;
+    margin-left: 130px;
+    text-align: center;
+
+}
+.list{
+    background-color: #F2EEFF;
+    margin-left: 600px;
+    padding: 100px;
+    width: 70rem;
+    
+}
+.zagolovok{
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60pt;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-right: 20px;
+}
+.text2{
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40pt;
+    text-align: center;
+    margin-bottom: 45px;
+    list-style-type: none;
+}
+.block2{
+    margin-top: 200px;
+}
+
+.ic1{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.ic2{
+    height: 110px;
+    width: 100px;
+    margin-left: 30px;
+}
+.ic3{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.ic4{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.nomer{
+    font-size: 40pt;
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 35px;   
+}
+.icon{
+    
+    height: 250px;
+    background-color: #F2EEFF;
+    width: 150rem;
+    margin-top: 300px;
+}
+
